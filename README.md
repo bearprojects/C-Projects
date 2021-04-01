@@ -1,13 +1,13 @@
 # C#-Projects
 
-大樂透 (Lotto)
+* 大樂透 (Lotto)
 
-骰子遊戲比大小 (Dice Game)
+* 骰子遊戲比大小 (Dice Game)
 
-貪吃蛇 (Snake)
+* 貪吃蛇 (Snake)
 
-BMI
+* BMI
 
-收銀機 (cashier)
+* 收銀機 (cashier)
 
-農夫過河 (Farmer crossing)
+* 農夫過河 (Farmer crossing)
